@@ -1,2 +1,1 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[https://solved.ac/profile/newwor1d](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
